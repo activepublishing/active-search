@@ -12,6 +12,7 @@ User friendly search Engine for PimCore 5, 6 and X on objects, assets and docume
 
 ![image](https://user-images.githubusercontent.com/26277574/162979102-e49a5dc7-0469-4f18-96f4-431667a07f98.png)
 Results & Action on several search results
+
 ![image](https://user-images.githubusercontent.com/26277574/162979699-629a5fb9-cee8-461a-9bb2-45e926ef2f7e.png)
 Search on search result
 
