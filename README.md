@@ -20,9 +20,6 @@ Search on search result
 To buy the solution, contact us by mail contact@active-publishing.fr or use form on our website.
 Coming soon: Direct purchase on our website
 
-# Licence & Price
-License: Bundle purchase
-
 # Demo
 Contact us for a remote demonstration
 
