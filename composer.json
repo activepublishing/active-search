@@ -1,0 +1,15 @@
+{
+    "name": "activepublishing/active-search",
+    "description" : "PimCore Advanced Search Engine with filters, actions and sub-search on results",
+    "version": "1.0.1",
+    "homepage": "https://activepublishing.fr",
+    "license": "GPL-3.0-or-later",
+    "type": "pimcore-bundle",
+    "authors": [
+        {
+          "name": "Active Publishing",
+          "email": "contact@active-publishing.fr",
+          "role": "Developer"
+        }
+      ]
+}
